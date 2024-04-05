@@ -1,0 +1,53 @@
+{
+  "tasks": [
+    {
+      "id": "0d59",
+      "username": "manish patel",
+      "date": "10-4-2024",
+      "taskType": "Office",
+      "message": "Filing various documents and maintaining databases. Creating filing systems. Updating spreadsheets and other data entry tasks. Creating email templates. Storing ..."
+    },
+    {
+      "id": "9f83",
+      "username": "keval shah",
+      "date": "11-04-2024",
+      "taskType": "Personal",
+      "message": "Cleaning. Everyday cleaning tasks often become more challenging with age. As a caretaker, one of your duties is to help with jobs around the house like ..."
+    },
+    {
+      "id": "0833",
+      "username": "Laksh bhalala",
+      "date": "06-04-2024",
+      "taskType": "Family",
+      "message": "Some of these tasks are must-dos every week (i.e., grocery shopping), while others may vary in frequency requirements depending on your household situation and ..."
+    },
+    {
+      "id": "4f17",
+      "username": "ramesh patel",
+      "date": "07-04-2024",
+      "taskType": "Friends",
+      "message": "A film – also called a movie, motion picture, moving picture, picture, photoplay or flick – is a work of visual art that simulates experiences and otherwise communicates ideas, stories, perceptions, feelings, beauty, or atmosphere through the use of moving images. "
+    },
+    {
+      "id": "2e1d",
+      "username": "Arpit",
+      "date": "05-04-2024",
+      "taskType": "Other",
+      "message": "Attend a Live Music Concert. Music connects people, and experiencing a live music concert together is a plus. So, book your tickets, get dressed up to sing ..."
+    },
+    {
+      "id": "dd9c",
+      "username": "Utsav",
+      "date": "06-04-2024",
+      "taskType": "Office",
+      "message": "Time management. Having time management skills can help to ensure you complete your administrative duties on time. Many administrative tasks can require ..."
+    },
+    {
+      "id": "d932",
+      "username": "umang",
+      "date": "10-4-2024",
+      "taskType": "Personal",
+      "message": "Prescription medication management. Since medications do fall under the umbrella of health care, it can be tempting to have the same person handle ..."
+    }
+  ]
+}
